@@ -8,7 +8,7 @@
 - ⚡ Fun fact: **Hodophhile**
 
 # Hello Peeps! 👋
-My name is Anish Chintamaneni. I am a San Diego State University graduate student pursuing a Master's in Big Data Analytics. I have 4 years of professional experience in Data Analysis, NLP, LLM, Database Administration, and management focusing on optimizing performance and scalability. Thank you for viewing my GitHub profile.
+My name is Anish Chintamaneni. I am a recent graduate in MS Big Data Analytics from San Diego State University. I have 4 years of professional experience in Data Analysis, NLP, LLM, Database Administration, and management focusing on optimizing performance and scalability. Thank you for viewing my GitHub profile.
 
 ## About Me ✍
 - 🔭 I worked as an NLP Software Engineer for 2 years at Cisco Webex India.
