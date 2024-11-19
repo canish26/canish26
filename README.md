@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Llama 3.1
 - 🌱 I’m currently learning LLM Models
 - 💬 Ask me about: anything about Data Handling 
-- 📫 How to reach me: achintamaneni5717@sdsu.edu
+- 📫 How to reach me: canish99@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: **Hodophile**
 
@@ -15,7 +15,7 @@ My name is Anish Chintamaneni. I am a recent graduate in MS Big Data Analytics f
 - 💬 Ask me about **Machine Learning**, **Database management**, **LLM/gen AI**, and **Cloud Services** for End-End Application Development.
 - 💬 For the backend, I have been working with **Flask**, **FastAPI** and **Python**.
 - 💬 You can also talk to me about data preprocessing, model evaluation, and visualization using tools like **Pandas**, **NumPy**, and **Matplotlib**. I also have experience with building and testing machine learning models using **Scikit-learn**, **TensorFlow**, and **PyTorch**.
-- 📫 Reach me at **canish99@gmail.com**
+
 
 ## Languages & Tools ✅
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white&style=flat)
