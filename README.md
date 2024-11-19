@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on llama 3.1
+- 🔭 I’m currently working on Llama 3.1
 - 🌱 I’m currently learning LLM Models
 - 💬 Ask me about: anything about Data Handling 
 - 📫 How to reach me: achintamaneni5717@sdsu.edu
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: **Hodophhile**
+- ⚡ Fun fact: **Hodophile**
 
 # Hello Peeps! 👋
 My name is Anish Chintamaneni. I am a recent graduate in MS Big Data Analytics from San Diego State University. I have 4 years of professional experience in Data Analysis, NLP, LLM, Database Administration, and management focusing on optimizing performance and scalability. Thank you for viewing my GitHub profile.
